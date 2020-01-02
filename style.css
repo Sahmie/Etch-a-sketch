@@ -1,0 +1,16 @@
+
+
+#container{
+  display: grid;
+  padding: 10px;
+  height: 70vh;
+  width: 80vw;
+  margin: auto;
+  border: fuchsia 1px solid;
+
+}
+
+
+.grid-item{
+  border: fuchsia 1px solid;
+}

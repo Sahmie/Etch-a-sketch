@@ -1,4 +1,6 @@
-
+#main{
+  text-align: center;
+}
 
 #container{
   display: grid;
@@ -7,10 +9,14 @@
   width: 80vw;
   margin: auto;
   border: fuchsia 1px solid;
+  margin-top: 30px;
 
 }
 
 
 .grid-item{
-  border: fuchsia 1px solid;
+  border: rgb(201, 196, 201) 1px solid;
+}
+#reset{
+  text-align: center;
 }

@@ -33,7 +33,8 @@ rgbColor();
 //function to reset grid and input new number of boxes
 function resetGrid(){
   document.body.innerHTML = `<div id="main">
-  <button id="reset" onclick="resetGrid()">Reset boxes</button>
+  <p>A project from <a href="https://www.theodinproject.com">TOP</a> done by <a href="https://www.twitter.com/sahmie">@sahmienwoko</a></p>
+  <button id="reset" onclick="resetGrid()" class="waves-effect waves-light btn">Reset boxes</button>
   
   <div id="container">
     
